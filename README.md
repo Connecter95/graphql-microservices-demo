@@ -34,17 +34,17 @@ graphQL/
 Run these commands in separate terminals:
 
 ```powershell
-cd C:\Users\Lkcon\Documents\graphQL\microservice-a
+cd microservice-a
 npm install
 ```
 
 ```powershell
-cd C:\Users\Lkcon\Documents\graphQL\microservice-b
+cd microservice-b
 npm install
 ```
 
 ```powershell
-cd C:\Users\Lkcon\Documents\graphQL\graphql-api
+cd graphql-api
 npm install
 ```
 
@@ -53,17 +53,17 @@ npm install
 Start each service in its own terminal:
 
 ```powershell
-cd C:\Users\Lkcon\Documents\graphQL\microservice-a
+cd microservice-a
 npm start
 ```
 
 ```powershell
-cd C:\Users\Lkcon\Documents\graphQL\microservice-b
+cd microservice-b
 npm start
 ```
 
 ```powershell
-cd C:\Users\Lkcon\Documents\graphQL\graphql-api
+cd graphql-api
 npm start
 ```
 
